@@ -1,0 +1,35 @@
+{
+  "name": "pollob-lang-cli",
+  "version": "1.0.0",
+  "description": "Pollob Lang - Bangla-flavored toy programming language. File extension: .pks",
+  "main": "src/index.js",
+  "bin": {
+    "pollob": "./bin/pollob.js"
+  },
+  "files": [
+    "src",
+    "bin",
+    "examples",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node bin/pollob.js examples/hello.pks"
+  },
+  "keywords": [
+    "pollob-lang",
+    "bangla",
+    "toy-language",
+    "programming-language",
+    "interpreter",
+    "bhailang"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
