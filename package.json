@@ -23,13 +23,13 @@
     "interpreter",
     "bhailang"
   ],
-  "author": "",
+  "author": "pollob-kumar",
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/pollob-kumar/pollob-lang-cli.git"
   }
 }
